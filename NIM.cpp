@@ -30,8 +30,8 @@ int hrugufjoldi;
 
 //Hér byrjar aðalforritið:
 int main( )
-{
-	int val;
+	{cout << "Steinar Valur Bjarnason" << endl;
+		int val;
 	do
 	{
 		cout << endl << endl << endl;
