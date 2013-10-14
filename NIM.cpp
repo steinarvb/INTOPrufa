@@ -30,8 +30,14 @@ int hrugufjoldi;
 
 //Hér byrjar aðalforritið:
 int main( )
+<<<<<<< HEAD
 	{cout << "Steinar Valur Bjarnason" << endl;
 		int val;
+=======
+{
+	cout << "Atli Gudlaugsson";
+	int val;
+>>>>>>> 39924e658b77147dc247645ca87f48047fbfc220
 	do
 	{
 		cout << endl << endl << endl;
